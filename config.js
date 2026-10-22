@@ -13,7 +13,7 @@ const CONFIG = {
   delivery: '',                  // معلومات التوصيل، مثال: 'توصيل داخل المدينة' — فارغ = «قريباً»
   currencyKey: 'cur',            // المفتاح المستعمل في translations.js لرمز العملة
   social: {
-    instagram: 'https://www.instagram.com/mounir_mounir__14?srtk=OHh4MjUzdzNmYndl',               // ضع الرابط الكامل هنا ليصبح الزر قابلاً للنقر
+    instagram: '',               // ضع الرابط الكامل هنا ليصبح الزر قابلاً للنقر
     facebook: ''
   },
   /* المنتجات: id يربط الصورة والترجمة. السعر بالدرهم. رتّبها كما في المنيو الأصلي. */
